@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     
     <DockPanel>
-        
+
         <Menu DockPanel.Dock="Top">
             
             <MenuItem Header="File">
@@ -17,9 +17,24 @@
                 <MenuItem x:Name="SaveItem" Header="Save" Click="OnSaveClick" IsEnabled="False"/>
             </MenuItem>
 
-            <MenuItem Header="Copy" Click="OnCopyClick"/>
-            <MenuItem Header="Paste" Click="OnPasteClick"/>
-            
+            <MenuItem Click="OnCutClick">
+                <MenuItem.Icon>
+                    <Image Source="Icons/Cut_Icon.png" Width="16" Height="16"/>
+                </MenuItem.Icon>
+            </MenuItem>
+
+            <MenuItem Click="OnCopyClick">
+                <MenuItem.Icon>
+                    <Image Source="Icons/Copy_Icon.png" Width="16" Height="16"/>
+                </MenuItem.Icon>
+            </MenuItem>
+
+            <MenuItem Click="OnPasteClick">
+                <MenuItem.Icon>
+                    <Image Source="Icons/Paste_Icon.png" Width="16" Height="16"/>
+                </MenuItem.Icon>
+            </MenuItem>
+
         </Menu>
         
         <Grid>

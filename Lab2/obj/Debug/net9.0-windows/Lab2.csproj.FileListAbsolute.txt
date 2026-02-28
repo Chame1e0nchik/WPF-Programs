@@ -21,3 +21,5 @@ C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows\ref\Lab2.dll
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows\WorkSpace.g.cs
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows\WorkSpace.baml
+C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows\Task1.g.cs
+C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab2\obj\Debug\net9.0-windows\Task1.baml

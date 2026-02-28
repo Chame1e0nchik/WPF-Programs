@@ -18,3 +18,4 @@ C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\Lab1.pdb
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\Lab1.genruntimeconfig.cache
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\ref\Lab1.dll
+C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\Lab1.sourcelink.json

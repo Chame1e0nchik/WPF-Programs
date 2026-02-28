@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\lab2\\workspace.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|solutionrelative:workspace.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\lab2\\workspace.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|solutionrelative:workspace.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\lab2\\workspace.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|solutionrelative:workspace.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\lab2\\task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0D2D2C-B42D-4126-AE9C-593A2DEF614E}|Lab2.csproj|solutionrelative:task1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Task1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\Task1.xaml.cs",
+              "RelativeDocumentMoniker": "Task1.xaml.cs",
+              "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\Task1.xaml.cs",
+              "RelativeToolTip": "Task1.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:20:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WorkSpace.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\WorkSpace.xaml.cs",
               "RelativeDocumentMoniker": "WorkSpace.xaml.cs",
               "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\WorkSpace.xaml.cs",
               "RelativeToolTip": "WorkSpace.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T16:35:26.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WorkSpace.xaml",
               "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\WorkSpace.xaml",
               "RelativeDocumentMoniker": "WorkSpace.xaml",
@@ -73,7 +90,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\Lab2\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T15:40:32.336Z",
               "EditorCaption": ""

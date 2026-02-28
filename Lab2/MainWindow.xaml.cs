@@ -10,7 +10,7 @@ namespace Lab2
     public partial class MainWindow : Window
     {
         private string? filepath;
-        private WorkSpace? space;
+        private WorkSpace? workSpace;
 
         public MainWindow()
         {
@@ -37,31 +37,51 @@ namespace Lab2
 
         private void OnSaveClick(object sender, RoutedEventArgs e)
         {
-            if (filepath != null && space != null)
+            if (string.IsNullOrEmpty(filepath))
             {
-                SaveItem.IsEnabled = true;
-                File.WriteAllText(filepath, space.TextField.Text);
+                SaveFileDialog dialog = new SaveFileDialog
+                {
+                    Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*",
+                    DefaultExt = "txt"
+                };
+
+                bool? result = dialog.ShowDialog();
+
+                if (result != true)
+                    return;
+
+                filepath = dialog.FileName;
+            }
+
+            File.WriteAllText(filepath, workSpace?.TextField.Text);
+        }
+
+        private void OnCutClick(object sender, RoutedEventArgs e)
+        {
+            if (!string.IsNullOrEmpty(workSpace?.TextField.SelectedText))
+            {
+                workSpace.TextField.Cut();
             }
         }
 
         private void OnCopyClick(object sender, RoutedEventArgs e)
         {
-            if (!string.IsNullOrEmpty(space?.TextField.SelectedText))
+            if (!string.IsNullOrEmpty(workSpace?.TextField.SelectedText))
             {
-                space.TextField.Copy();
+                workSpace.TextField.Copy();
             }
         }
 
         private void OnPasteClick(object sender, RoutedEventArgs e)
         {
-            space?.TextField.Paste();
+            workSpace?.TextField.Paste();
         }
 
         private void LoadContent(string text)
         {
-            space = new WorkSpace(text);
+            workSpace = new WorkSpace(text);
             SaveItem.IsEnabled = true;
-            WorkSpaceContent.Content = space;
+            WorkSpaceContent.Content = workSpace;
         }
     }
 }
