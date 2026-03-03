@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\gameonwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\gameonwpf\\components\\update\\gameupdatecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|solutionrelative:components\\update\\gameupdatecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\gameonwpf\\components\\gamescene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|solutionrelative:components\\gamescene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|c:\\users\\roma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\wpf\\gameonwpf\\components\\gamescene.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB934BA-2E31-4647-B89E-E5E1E2275351}|GameOnWPF.csproj|solutionrelative:components\\gamescene.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T09:28:22.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameUpdateCycle.cs",
+              "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\Update\\GameUpdateCycle.cs",
+              "RelativeDocumentMoniker": "Components\\Update\\GameUpdateCycle.cs",
+              "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\Update\\GameUpdateCycle.cs",
+              "RelativeToolTip": "Components\\Update\\GameUpdateCycle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:31:08.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameScene.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\GameScene.xaml.cs",
+              "RelativeDocumentMoniker": "Components\\GameScene.xaml.cs",
+              "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\GameScene.xaml.cs",
+              "RelativeToolTip": "Components\\GameScene.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:54:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameScene.xaml",
+              "DocumentMoniker": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\GameScene.xaml",
+              "RelativeDocumentMoniker": "Components\\GameScene.xaml",
+              "ToolTip": "C:\\Users\\Roma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WPF\\GameOnWPF\\Components\\GameScene.xaml",
+              "RelativeToolTip": "Components\\GameScene.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T12:17:15.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

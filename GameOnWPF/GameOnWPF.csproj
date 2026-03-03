@@ -1,0 +1,150 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <PackageIcon></PackageIcon>
+    <ApplicationIcon>Sprites\Game_Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SFX\29811401-wondrous-waters-119518.mp3" />
+    <None Remove="SFX\Footsteps_Walk_Grass_Mono_01.wav" />
+    <None Remove="SFX\Footsteps_Walk_Grass_Mono_04.wav" />
+    <None Remove="SFX\Footsteps_Walk_Grass_Mono_05.wav" />
+    <None Remove="Sprites\Background\MainMenu_background.png" />
+    <None Remove="Sprites\Character.png" />
+    <None Remove="Sprites\Character\Character_down_1.png" />
+    <None Remove="Sprites\Character\Character_down_2.png" />
+    <None Remove="Sprites\Character\Character_down_3.png" />
+    <None Remove="Sprites\Character\Character_down_4.png" />
+    <None Remove="Sprites\Character\Character_left_1.png" />
+    <None Remove="Sprites\Character\Character_left_2.png" />
+    <None Remove="Sprites\Character\Character_left_3.png" />
+    <None Remove="Sprites\Character\Character_left_4.png" />
+    <None Remove="Sprites\Character\Character_right_1.png" />
+    <None Remove="Sprites\Character\Character_right_2.png" />
+    <None Remove="Sprites\Character\Character_right_3.png" />
+    <None Remove="Sprites\Character\Character_right_4.png" />
+    <None Remove="Sprites\Character\Character_top_1.png" />
+    <None Remove="Sprites\Character\Character_top_2.png" />
+    <None Remove="Sprites\Character\Character_top_3.png" />
+    <None Remove="Sprites\Character\Character_top_4.png" />
+    <None Remove="Sprites\ColorMap.png" />
+    <None Remove="Sprites\Grass_tile.png" />
+    <None Remove="Sprites\Grass_tile_edge_down.png" />
+    <None Remove="Sprites\Grass_tile_edge_left.png" />
+    <None Remove="Sprites\Grass_tile_edge_top.png" />
+    <None Remove="Sprites\Interact_Button.png" />
+    <None Remove="Sprites\Rock_tile.png" />
+    <None Remove="Sprites\Water_tile.png" />
+    <None Remove="Sprites\Water_tile_down-left-outside.png" />
+    <None Remove="Sprites\Water_tile_down-left.png" />
+    <None Remove="Sprites\Water_tile_down.png" />
+    <None Remove="Sprites\Water_tile_inside-left.png" />
+    <None Remove="Sprites\Water_tile_left.png" />
+    <None Remove="Sprites\Water_tile_top-left-outside.png" />
+    <None Remove="Sprites\Water_tile_top-left.png" />
+    <None Remove="Sprites\Water_tile_top.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="SFX\29811401-wondrous-waters-119518.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SFX\Footsteps_Walk_Grass_Mono_01.wav" />
+    <Content Include="SFX\Footsteps_Walk_Grass_Mono_04.wav" />
+    <Content Include="SFX\Footsteps_Walk_Grass_Mono_05.wav" />
+    <Content Include="Sprites\Game_Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sprites\Background\MainMenu_background.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character.png" />
+    <Resource Include="Sprites\Character\Character_down_1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_down_2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_down_3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_down_4.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_left_1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_left_2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_left_3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_left_4.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_right_1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_right_2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_right_3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_right_4.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_top_1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_top_2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_top_3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Character\Character_top_4.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\ColorMap.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Grass_tile.png" />
+    <Resource Include="Sprites\Grass_tile_edge_down.png" />
+    <Resource Include="Sprites\Grass_tile_edge_left.png" />
+    <Resource Include="Sprites\Grass_tile_edge_top.png" />
+    <Resource Include="Sprites\Interact_Button.png" />
+    <Resource Include="Sprites\Rock_tile.png" />
+    <Resource Include="Sprites\Water_tile.png" />
+    <Resource Include="Sprites\Water_tile_down-left-outside.png" />
+    <Resource Include="Sprites\Water_tile_down-left.png" />
+    <Resource Include="Sprites\Water_tile_down.png" />
+    <Resource Include="Sprites\Water_tile_inside-left.png" />
+    <Resource Include="Sprites\Water_tile_left.png" />
+    <Resource Include="Sprites\Water_tile_top-left-outside.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\Water_tile_top-left.png" />
+    <Resource Include="Sprites\Water_tile_top.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Sprites\Game_Icon.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Scenes\" />
+  </ItemGroup>
+
+</Project>

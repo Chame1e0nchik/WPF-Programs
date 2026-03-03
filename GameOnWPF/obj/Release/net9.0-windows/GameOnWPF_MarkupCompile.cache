@@ -1,0 +1,20 @@
+﻿GameOnWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Roma\OneDrive\Рабочий стол\WPF\GameOnWPF\obj\Release\net9.0-windows\
+GameOnWPF
+none
+false
+TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Roma\OneDrive\Рабочий стол\WPF\GameOnWPF\App.xaml
+3-1565083936
+1-2002381556
+212085519244
+200366931479
+Components\GameBuildSettings.xaml;Components\GameScene.xaml;MainWindow.xaml;
+
+True
+
